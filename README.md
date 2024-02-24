@@ -1,4 +1,4 @@
-"# Backend_OSOS" 
+#
 After downloading this file, We have to setup this file-
 - run npm install command on terminal (for setup node_modules folder)
 - after that start server using nodemon index
