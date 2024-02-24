@@ -11,4 +11,11 @@ After downloading this file, We have to setup this file-
 
   #IMAGES
 
-  
+  <img width="960" alt="Screenshot 2024-02-24 231814" src="https://github.com/Vimleshkg/Backend_OSIS/assets/125298546/8e6e8c2c-b13f-4e07-ba1f-18c6de27708f">
+
+
+<img width="960" alt="Screenshot 2024-02-24 232003" src="https://github.com/Vimleshkg/Backend_OSIS/assets/125298546/8490559e-e950-4b16-a95b-e9af7d559ceb">
+
+<img width="960" alt="Screenshot 2024-02-24 232054" src="https://github.com/Vimleshkg/Backend_OSIS/assets/125298546/187de5a7-9932-4e5c-af21-aec2eae9a9f5">
+
+<img width="960" alt="Screenshot 2024-02-24 232140" src="https://github.com/Vimleshkg/Backend_OSIS/assets/125298546/bab046ac-5356-4129-9b84-71e78d67de49">
